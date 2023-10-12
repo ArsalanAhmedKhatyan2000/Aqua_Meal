@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "272453744530",
+    "project_id": "aqua-meals-1c094",
+    "storage_bucket": "aqua-meals-1c094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272453744530:android:bd53659ce324cbfe97734b",
+        "android_client_info": {
+          "package_name": "com.example.aqua_meal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272453744530-f9bflioj128g6ottki48roahf29rv5ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqC5oHMPJLfAgW6QnxhNedYNmM9z_q0mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272453744530-f9bflioj128g6ottki48roahf29rv5ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272453744530:android:915b6c5097111b4497734b",
+        "android_client_info": {
+          "package_name": "com.example.aqua_meals_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272453744530-f9bflioj128g6ottki48roahf29rv5ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqC5oHMPJLfAgW6QnxhNedYNmM9z_q0mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272453744530-f9bflioj128g6ottki48roahf29rv5ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
